@@ -1,0 +1,33 @@
+/* 
+.field_div {
+    margin: 15px; 
+} */
+
+.main_div {
+    margin: 0 auto;
+    width: 900px;
+    background-color: aqua;
+}
+
+* {
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.cntr {
+    text-align: center;
+}
+table {
+    margin: 15px 30px;
+}
+
+label {
+    padding-right: 40px;
+}
+
+tbody>tr {
+    height: 40px;
+}
+
+form {
+    padding: 10px 0px;
+}
